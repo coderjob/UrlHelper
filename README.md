@@ -1,6 +1,6 @@
 # Exercício de TDD
 
-Url helper para a sua aplicacão
+Url helper para a sua aplicacão. Exercício apresentado na palestra [TDD - desenvolva com confiança](https://speakerdeck.com/mjacobus/tdd-desenvolva-com-confianca)
 
 ### Requisitos
 
